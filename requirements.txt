@@ -1,0 +1,15 @@
+# PDF转换功能所需的依赖
+langchain
+langchain-openai
+langchain-anthropic
+langchain-community
+langchain-core
+PyMuPDF
+shapely
+requests
+json5
+datetime
+typing-extensions
+openai
+pandas
+numpy
